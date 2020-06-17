@@ -1,1 +1,3 @@
-# web_design_assignment
+# 授業内のウェブ作成課題
+
+バニラでつくってます
